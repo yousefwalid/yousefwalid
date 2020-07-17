@@ -13,12 +13,13 @@
 </a>
 
 <br>
+<br>
 
-A junior Software Developer and a Computer Engineering student
+A junior Software Developer and a Computer Engineering student, always eager to learn and always looking to work on fun projects.
 
 ## 📝 Resume 
 
-<a style="stroke:5px;" href="https://github.com/yousefwalid/yousefwalid/blob/master/Youssef_Walid_ResumeV1.2.pdf">
+<a style="stroke:5px;" href="Youssef_Walid_ResumeV1.2.pdf" type="application/pdf">
   <img src="https://i.imgur.com/GSAIPnn.png" alt="Youssef Walid | Resume">
 </a>
 
