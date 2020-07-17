@@ -16,13 +16,13 @@
 
 A junior Software Developer and a Computer Engineering student
 
-## Resume
+## 📝 Resume 
 
-<a style="stroke:5px" href="https://drive.google.com/file/d/1dddZJTq6t9SPzXX-r_FCWv9i6hnoWiZa/view">
+<a style="stroke:5px;" href="https://github.com/yousefwalid/yousefwalid/blob/master/Youssef_Walid_ResumeV1.2.pdf">
   <img src="https://i.imgur.com/GSAIPnn.png" alt="Youssef Walid | Resume">
 </a>
 
-## Languages and tools
+## 🛠 Languages and tools
 
 
 <code><img height="20" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
