@@ -26,14 +26,16 @@ A junior Software Developer and a Computer Engineering student, always eager to 
 ## 🛠 Languages and tools
 
 
-<code><img height="20" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="20" alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img height="20" alt="C++" src="https://i.imgur.com/QTP0zhp.png"></code>
+<code><img height="20" alt="C#" src="https://i.imgur.com/CtqbEHu.png"></code>
 <code><img height="20" alt="js" src="https://i.imgur.com/R0BfmBL.png"></code>
 <code><img height="20" alt="TS" src="https://i.imgur.com/Rjvvkpd.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="nodejs" src="https://i.imgur.com/Hi7Betu.png"></code>
 <code><img height="20" alt="mongoDB" src="https://i.imgur.com/uemLvhs.png"></code>
-<code><img height="20" alt="mySQL" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
-<code><img height="20" alt="vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="20" alt="mySQL" src="https://i.imgur.com/2bScz0p.png"></code>
+<code><img height="20" alt="vuejs" src="https://i.imgur.com/xqsHSZ5.png"></code>
+<code><img height="20" alt="python" src="https://i.imgur.com/SJzjyHp.png"></code>
+<code><img height="20" alt="golang" src="https://i.imgur.com/1jt4iPR.png"></code>
+<code><img height="20" alt="git" src="https://i.imgur.com/cSu4jhA.png"></code>
 
 ![](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf)
