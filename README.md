@@ -18,8 +18,8 @@
 A junior Software Developer and a Computer Engineering student, always eager to learn and always looking to work on fun projects.
 
 ## 📝 Resume 
-<a href="https://drive.google.com/file/d/1gDNULq8pjnxo4BYU-IapR3Kr0tdh2PWf/view?usp=sharing" type="application/pdf">
-  <img src="https://i.imgur.com/GSAIPnn.png" alt="Youssef Walid | Resume">
+<a href="https://drive.google.com/file/d/1csMAVVzAyScByaglh2outSzD2J76Md65/view?usp=share_link" type="application/pdf">
+  <img src="https://i.imgur.com/PmqnGaT.png" alt="Youssef Walid | Resume">
 </a>
 
 ## 🛠 Languages and tools
