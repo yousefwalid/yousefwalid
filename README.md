@@ -15,12 +15,12 @@ Software Engineer with a Product-led mindset, I have 5+ years of experience buil
 I am proficient in Ruby on Rails, and Vue.js, with a lot of experience in AWS Infrastructure, Elasticsearch, PostgreSQL and CI/CD.
 I also have prior experience in Node.js, Python (Flask), MongoDB, and React.js.
 
-I currently work as a Founding Software Engineer @ Rasayel
+I currently work as a Software Engineer @ Amplemarket
 
 ## 🛠 Languages and tools
 
 Proficient in:
-<code><img height="20" alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png"></code>
+<code><img height="20" alt="Ruby" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code>
 <code><img height="20" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" alt="vuejs" src="https://i.imgur.com/xqsHSZ5.png"></code>
 <code><img height="20" alt="TS" src="https://i.imgur.com/Rjvvkpd.png"></code>
